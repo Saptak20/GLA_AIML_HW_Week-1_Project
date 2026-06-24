@@ -11,7 +11,7 @@ The objective of this assignment is to analyze the dataset, identify important b
 ## 📂 Repository Structure
 
 ```text
-├── customer-churn-prediction.ipynb    # Jupyter Notebook containing EDA and preprocessing
+├── week1_ecommerce_project.ipynb      # Jupyter Notebook containing EDA and preprocessing
 ├── Week 1 Assignment_Answers.pdf      # Written answers to all assignment questions
 └── README.md                          # Project documentation
 ```
