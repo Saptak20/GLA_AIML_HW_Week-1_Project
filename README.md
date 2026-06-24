@@ -12,8 +12,7 @@ The objective of this assignment is to analyze the dataset, identify important b
 
 ```text
 ├── customer-churn-prediction.ipynb    # Jupyter Notebook containing EDA and preprocessing
-├── ecommerce_500k.csv                 # Dataset used for analysis
-├── answers.pdf                        # Written answers to all assignment questions
+├── Week 1 Assignment_Answers.pdf      # Written answers to all assignment questions
 └── README.md                          # Project documentation
 ```
 
